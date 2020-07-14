@@ -5,7 +5,7 @@
   <em>
     Web Developer located in Ciudad Juárez.<br>
     Always looking for opportunities and new knowledge.<br>
-    Actually working at Westmount Solutions using web technologies like JS, CSS, PHP, React, Shopify and learning everyday new tricks 😎.<br><br>
+    Actually working at Westmount Solutions using web technologies like JS, CSS, PHP, NodeJS, Shopify and learning everyday new tricks 😎.<br><br>
 <br>
 
   <a href="https://arciniega.dev">
