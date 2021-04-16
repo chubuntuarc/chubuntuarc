@@ -1,5 +1,5 @@
 
-# <img src="https://arciniega.dev/favicon.png" width="30px"> Jesus Arciniega&nbsp;
+# <img src="https://chubuntuarc.github.io/favicon.png" width="30px"> Jesus Arciniega&nbsp;
 
 <p>
   <em>
@@ -18,5 +18,5 @@
     <img align="left" alt="Jesus Arciniega | Twitter" width="26px" src="https://logo-logos.com/wp-content/uploads/2016/11/Twitter_logo_blue_bird.png" />
   </a>
   <a href="mailto:dev.jesusarc@gmail.com">
-    <img align="left" alt="Jesus Arciniega | Gmail" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/New_Logo_Gmail.svg/634px-New_Logo_Gmail.svg.png" />
+    <img align="left" alt="Jesus Arciniega | Gmail" width="26px" src="https://logos-marcas.com/wp-content/uploads/2020/11/Gmail-Logo.png" />
   </a>
