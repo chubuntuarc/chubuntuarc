@@ -3,7 +3,7 @@
 
 <p>
   <em>
-    Web Developer located in Ciudad Juárez.<br>
+    Web Developer located in Chihuahua, México.<br>
     Always looking for opportunities and new knowledge.<br>
     Actually working with cool stuff like NextJS and headless ecommerce learning everyday new tricks 😎.<br><br>
 <br>
