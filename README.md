@@ -1,5 +1,5 @@
 
-# <img src="https://lh5.googleusercontent.com/Zz6SqNpZrgfkwVjmjoXkQW0qfsJQg80D1eZxXpNCy7rQZ1QnS8zTATfOnUhjuvV9xix5YamfzquLjoEAA1ODPzs=w16383" width="30px"> Jesus Arciniega&nbsp;
+# <img src="https://lh5.googleusercontent.com/jZLNPzoSmZKS2M7PD5cU4BrpQrnYwaz99yrWnMlb5zyuAOHtZSvKhz_yOrtJ4KX3ebURo0HuecHDNwrTQ25Vwfo=w16383" width="30px"> Jesus Arciniega&nbsp;
 
 <p>
   <em>
@@ -9,7 +9,7 @@
 <br>
 
   <a href="https://arciniega.dev">
-    <img align="left" alt="Jesus Arciniega | Web" width="24px" src="https://lh5.googleusercontent.com/Zz6SqNpZrgfkwVjmjoXkQW0qfsJQg80D1eZxXpNCy7rQZ1QnS8zTATfOnUhjuvV9xix5YamfzquLjoEAA1ODPzs=w16383" />
+    <img align="left" alt="Jesus Arciniega | Web" width="24px" src="https://lh5.googleusercontent.com/jZLNPzoSmZKS2M7PD5cU4BrpQrnYwaz99yrWnMlb5zyuAOHtZSvKhz_yOrtJ4KX3ebURo0HuecHDNwrTQ25Vwfo=w16383" />
   </a>
   <a href="https://in.linkedin.com/in/jesusarciniega">
     <img align="left" alt="Jesus Arciniega | Linkedin" width="24px" src="https://images.vexels.com/media/users/3/137382/isolated/preview/c59b2807ea44f0d70f41ca73c61d281d-icono-de-linkedin-logo-by-vexels.png" />
