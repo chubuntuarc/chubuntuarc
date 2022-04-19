@@ -9,7 +9,7 @@
 <br>
 
   <a href="https://arciniega.dev">
-    <img align="left" alt="Jesus Arciniega | Web" width="24px" src="https://lh6.googleusercontent.com/rYLt9s88dUN18fIDdE_SHftKlL9t9njTLbLCp56zxyw8yQFwLtgdgzcvPcIKiV831gC53wQKS0RujSmKoY4tjTQ=w16383" />
+    <img align="left" alt="Jesus Arciniega | Web" width="24px" src="https://lh4.googleusercontent.com/_MD8-3vCuPR9mzSeYCUK9o-gLcJLrOn6SE-LrBz3UDG_jeeOLBT2WO9uAl5PcbEGrInW1CO-sdgVSK4MMBmRkzY=w16383" />
   </a>
   <a href="https://in.linkedin.com/in/jesusarciniega">
     <img align="left" alt="Jesus Arciniega | Linkedin" width="24px" src="https://images.vexels.com/media/users/3/137382/isolated/preview/c59b2807ea44f0d70f41ca73c61d281d-icono-de-linkedin-logo-by-vexels.png" />
