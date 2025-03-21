@@ -41,7 +41,7 @@ For a decade, I've dedicated my career to software engineering, honing a deep sk
 ###
 
 <div>
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://in.linkedin.com/in/jesusarciniega)" target="_blank">
+  <a href="https://in.linkedin.com/in/jesusarciniega" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:jesus@arciniega.dev" target="_blank">
